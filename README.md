@@ -6,6 +6,7 @@
 - 👯 I’m looking for job oportunities as software Developer 
 - 🥅 2020/2021 Goals: Finish my course and start to learn making part of a team work!
 - ⚡ Fun fact: I love to communicate, watch series, and participate to a happy hour. 🤣
+- 👯 Here comes some fun project, made with React.Js, Java and Native [sds-BigGameSurvey]
 
 ### Connect with me:
 
@@ -34,3 +35,4 @@
 
 [instagram]: https://www.instagram.com/jehhdisney/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/j%C3%A9ssicatavaresrocha/
+[sds-BigGameSurvey]: https://sds1-jessica.netlify.app/
